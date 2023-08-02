@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @mwiacek
-- Ruby developer w twojej okolicy
